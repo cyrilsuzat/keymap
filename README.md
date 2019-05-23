@@ -8,6 +8,7 @@
 | View Recent Files                   | `⌘ E`                   |
 | Jump to Declaration                 | `⌘ B` / `⌘ click`       |
 | Select Previous / Next Tab          | `⌘ ⌥ ←` / `⌘ ⌥ →`       |
+| Reopen Closed Tab                   | `⌘ ⇧ T`                 |
 | Navigate Last / Next Edit Location  | `⌃ ⌥ ←` / `⌃ ⌥ →`       |
 | Quick Definition / Documentation    | `⌥ space` / `⌥ ⇧ space` |
 
