@@ -14,8 +14,8 @@
 
 | EDITING                             |                         |
 | :---                                | :---                    |
-| Start New Line                      | `⌥ ⏎`                   |
-| Start New Line Before Current       | `⌥ ⇧ ⏎`                 |
+| Start New Line                      | `⌘ ⏎`                   |
+| Start New Line Before Current       | `⌘ ⇧ ⏎`                 |
 | Duplicate Line or Selection         | `⌘ ⇧ D`                 |
 | Move Line Up / Down                 | `⌘ ⌃ ↑` / `⌘ ⌃ ↓`       |
 | Delete Line                         | `⌘ ⇧ ⌨`                 |
