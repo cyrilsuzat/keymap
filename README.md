@@ -6,7 +6,7 @@
 | Navigate File...                    | `⌘ P`                   |
 | Navigate File Structure             | `⌘ R`                   |
 | View Recent Files                   | `⌘ E`                   |
-| Jump to Declaration                 | `⌘ B` / `⌘ click`       |
+| Navigate Declaration or Usages      | `⌘ B` / `⌘ click`       |
 | Select Previous / Next Tab          | `⌘ ⌥ ←` / `⌘ ⌥ →`       |
 | Reopen Closed Tab                   | `⌘ ⇧ T`                 |
 | Navigate Last / Next Edit Location  | `⌃ ⌥ ←` / `⌃ ⌥ →`       |
