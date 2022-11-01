@@ -5,6 +5,7 @@
 | Find Action...                      | `⌘ ⇧ P`                 |
 | Navigate File...                    | `⌘ P`                   |
 | Navigate File Structure             | `⌘ R`                   |
+| Go To Line.                         | `⌘ L`                   |
 | View Recent Files                   | `⌘ E`                   |
 | Navigate Declaration or Usages      | `⌘ B` / `⌘ click`       |
 | Select Previous / Next Tab          | `⌘ ⌥ ←` / `⌘ ⌥ →`       |
