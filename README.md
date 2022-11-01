@@ -24,8 +24,8 @@
 | Comment with Line Comment           | `⌘ ⇧ 7`                 |
 | Select Next Occurence               | `⌃ G`                   |
 | Select All Occurences               | `⌃ ⌘ G`                 |
-| Add or Remove Caret                 | `⌥ click`               |
-| Clone Caret Above / Below           | `⌃ ⇧ ↑` / `⌃ ⇧ ↓`       |
+| Add Caret                           | `⌥ click`               |
+| Add Caret Up / Down                 | `⌃ ⇧ ↑` / `⌃ ⇧ ↓`       |
 | Extend / Shrink Selection           | `⌥ ↑` / `⌥ ↓`           |
 | Collapse / Expand                   | `⌘ -` / `⌘ ⇧ -`         |
 | Completion Basic                    | `⌃ space`               |
