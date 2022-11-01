@@ -30,6 +30,8 @@
 | Collapse / Expand                   | `⌘ -` / `⌘ ⇧ -`         |
 | Completion Basic                    | `⌃ space`               |
 | Completion Cyclic Expand Word       | `⌃ ⇧ space`             |
+| Zoom In / Out                       | `⌘ ⇧ 1` / `⌘ -`         |
+| Reset Zoom                          | `⌘ 0`                   |
 
 | SEARCH / REPLACE                    |                         |
 | :---                                | :---                    |
