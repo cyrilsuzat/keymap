@@ -2,9 +2,9 @@
 
 | NAVIGATION                          |                         |
 | :---                                | :---                    |
-| Find Action...                      | `⌘ ⇧ P`                 |
-| Navigate File...                    | `⌘ P`                   |
-| Navigate File Structure             | `⌘ R`                   |
+| Actions                             | `⌘ ⇧ P`                 |
+| Files                               | `⌘ P`                   |
+| Symbols (Structure)                 | `⌘ ⇧ O`                 |
 | Go To Line.                         | `⌘ L`                   |
 | View Recent Files                   | `⌘ E`                   |
 | Navigate Declaration or Usages      | `⌘ B` / `⌘ click`       |
