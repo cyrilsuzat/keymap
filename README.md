@@ -5,7 +5,7 @@
 | Actions                             | `⌘ ⇧ P`                 |
 | Files                               | `⌘ P`                   |
 | Symbols (Structure)                 | `⌘ ⇧ O`                 |
-| Go To Line.                         | `⌘ L`                   |
+| Go To Line                          | `⌃ G`                   |
 | View Recent Files                   | `⌘ E`                   |
 | Navigate Declaration or Usages      | `⌘ B` / `⌘ click`       |
 | Select Previous / Next Tab          | `⌘ ⌥ ←` / `⌘ ⌥ →`       |
