@@ -18,7 +18,7 @@
 | Start New Line                      | `⌘ ⏎`                   |
 | Start New Line Before Current       | `⌘ ⇧ ⏎`                 |
 | Duplicate Line or Selection         | `⌘ ⇧ D`                 |
-| Move Line Up / Down                 | `⌥ ↑` / `⌥ ↓`.          |
+| Move Line Up / Down                 | `⌥ ↑` / `⌥ ↓`           |
 | Delete Line                         | `⌘ ⇧ ⌨`                 |
 | Reformat Code                       | `⌘ ⌥ L`                 |
 | Comment with Line Comment           | `⌘ ⇧ 7`                 |
