@@ -24,7 +24,7 @@
 | Select Next Occurence               | `⌘ D`                   |
 | Select All Occurences               | `⌘ ⇧ D`                 |
 | Add Caret                           | `⌥ click`               |
-| Add Caret Up / Down                 | `⌃ ⇧ ↑` / `⌃ ⇧ ↓`       |
+| Add Caret Above / Below             | `⌘ ⇧ ↑` / `⌘ ⇧ ↓`       |
 | Collapse / Expand                   | `⌘ -` / `⌘ ⇧ -`         |
 | Completion Basic                    | `⌃ space`               |
 | Completion Cyclic Expand Word       | `⌃ ⇧ space`             |
