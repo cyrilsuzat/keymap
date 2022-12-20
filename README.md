@@ -21,8 +21,8 @@
 | Delete Line                         | `⌘ ⇧ ⌨`                 |
 | Reformat Code                       | `⌥ ⇧ F`                 |
 | Comment with Line Comment           | `⌘ ⇧ 7`                 |
-| Select Next Occurence               | `⌃ G`                   |
-| Select All Occurences               | `⌃ ⌘ G`                 |
+| Select Next Occurence               | `⌘ D`                   |
+| Select All Occurences               | `⌘ ⇧ D`                 |
 | Add Caret                           | `⌥ click`               |
 | Add Caret Up / Down                 | `⌃ ⇧ ↑` / `⌃ ⇧ ↓`       |
 | Collapse / Expand                   | `⌘ -` / `⌘ ⇧ -`         |
