@@ -12,12 +12,10 @@
 | Basic editing                       |                         |
 | :---                                | :---                    |
 | Move line down/up                   | `⌥ ↓` / `⌥ ↑`           |
-| Insert line below/above             | `⌘ ⏎` / `⌘ ⇧ ⏎`         |
 | Duplicate line or selection         | `⌥ ⇧ ↓`                 |
 | Delete Line                         | `⌘ ⇧ ⌨`                 |
-| Comment with Line Comment           | `⌘ ⇧ 7`                 |
-| Zoom In / Out                       | `⌘ ⇧ 1` / `⌘ -`         |
-| Reset Zoom                          | `⌘ 0`                   |
+| Insert line below/above             | `⌘ ⏎` / `⌘ ⇧ ⏎`         |
+| Comment line                        | `⌘ ⇧ 7`                 |
 
 | Multi-cursor and selection          |                         |
 | :---                                | :---                    |
@@ -48,6 +46,8 @@
 
 | Display                             |                         |
 | :---                                | :---                    |
+| Zoom in/out                         | `⌘ ⇧ 1` / `⌘ -`         |
+| Reset zoom                          | `⌘ 0`                   |
 
 | Git                                 |                         |
 | :---                                | :---                    |
