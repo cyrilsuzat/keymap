@@ -51,6 +51,7 @@
 
 | Git                                 |                         |
 | :---                                | :---                    |
-| Update Project                      | `⌘ T`                   |
-| Commit...                           | `⌘ K`                   |
-| Push...                             | `⌘ ⇧ K`                 |
+| Blame                               | `⌃ G ⌃ A`               |
+| Commit                              | `⌃ G ⌃ C`               |
+| Pull                                | `⌃ G ⌃ U`               |
+| Push                                | `⌃ G ⌃ P`               |
