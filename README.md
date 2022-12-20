@@ -1,46 +1,50 @@
 # Keymap
 
-| NAVIGATION                          |                         |
+| Navigation                          |                         |
 | :---                                | :---                    |
 | Actions                             | `⌘ ⇧ P`                 |
 | Files                               | `⌘ P`                   |
 | Symbols (Structure)                 | `⌘ ⇧ O`                 |
-| Go To Line                          | `⌃ G`                   |
+| Go to line                          | `⌘ L`                   |
 | Navigate Declaration or Usages      | `⌘ B` / `⌘ click`       |
 | Select Previous / Next Tab          | `⌘ ⌥ ←` / `⌘ ⌥ →`       |
 | Reopen Closed Tab                   | `⌘ ⇧ T`                 |
 | Go back/forward                     | `⌃ -` / `⌃ ⇧ -`         |
 | Quick Definition / Documentation    | `⌥ space` / `⌥ ⇧ space` |
 
-| EDITING                             |                         |
+| Basic editing                       |                         |
 | :---                                | :---                    |
-| Start New Line                      | `⌘ ⏎`                   |
-| Start New Line Before Current       | `⌘ ⇧ ⏎`                 |
-| Duplicate Line or Selection         | `⌥ ⇧ ↓`                 |
-| Move Line Up / Down                 | `⌥ ↑` / `⌥ ↓`           |
+| Move line down/up                   | `⌥ ↓` / `⌥ ↑`           |
+| Insert line below/above             | `⌘ ⏎` / `⌘ ⇧ ⏎`         |
+| Duplicate line or selection         | `⌥ ⇧ ↓`                 |
 | Delete Line                         | `⌘ ⇧ ⌨`                 |
-| Reformat Code                       | `⌥ ⇧ F`                 |
 | Comment with Line Comment           | `⌘ ⇧ 7`                 |
 | Select Next Occurence               | `⌘ D`                   |
 | Select All Occurences               | `⌘ ⇧ D`                 |
-| Add Caret                           | `⌥ click`               |
-| Add Caret Above / Below             | `⌘ ⇧ ↑` / `⌘ ⇧ ↓`       |
 | Completion                          | `⌃ space`               |
 | Zoom In / Out                       | `⌘ ⇧ 1` / `⌘ -`         |
 | Reset Zoom                          | `⌘ 0`                   |
 
-| SEARCH / REPLACE                    |                         |
+| Multi-cursor and selection          |                         |
+| :---                                | :---                    |
+| Add caret                           | `⌥ click`               |
+| Add caret above/below               | `⌘ ⇧ ↑` / `⌘ ⇧ ↓`       |
+
+| Rich languages editing              |                         |
+| :---                                | :---                    |
+| Reformat code                       | `⌥ ⇧ F`                 |
+| Insert <%= %> in RHTML              | `⌘ ⇧ .`                 |
+| Insert <% %> in RHTML               | `⌘ ⇧ ,`                 |
+
+| Search and replace                  |                         |
 | :---                                | :---                    |
 | Find...                             | `⌘ F`                   |
 | Find in Files...                    | `⌘ ⇧ F`                 |
 
-| RAILS                               |                         |
+| Display                             |                         |
 | :---                                | :---                    |
-| Insert <%= %> in RHTML              | `⌘ ⇧ .`                 |
-| Insert <% %> in RHTML               | `⌘ ⇧ ,`                 |
-| Navigate to Rails model / view etc. | `⌘ ⌥ ↑`                 |
 
-| VCS / LOCAL HISTORY                 |                         |
+| Git                                 |                         |
 | :---                                | :---                    |
 | Update Project                      | `⌘ T`                   |
 | Commit...                           | `⌘ K`                   |
