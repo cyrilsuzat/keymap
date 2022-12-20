@@ -9,7 +9,7 @@
 | Navigate Declaration or Usages      | `⌘ B` / `⌘ click`       |
 | Select Previous / Next Tab          | `⌘ ⌥ ←` / `⌘ ⌥ →`       |
 | Reopen Closed Tab                   | `⌘ ⇧ T`                 |
-| Navigate Last / Next Edit Location  | `⌃ ⌥ ←` / `⌃ ⌥ →`       |
+| Go back/forward                     | `⌃ -` / `⌃ ⇧ -`         |
 | Quick Definition / Documentation    | `⌥ space` / `⌥ ⇧ space` |
 
 | EDITING                             |                         |
