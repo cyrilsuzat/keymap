@@ -46,8 +46,15 @@
 
 | Display                             |                         |
 | :---                                | :---                    |
+| Toggle full screen                  | `⌃ ⌘ F`                 |
 | Zoom in/out                         | `⌘ ⇧ 1` / `⌘ -`         |
 | Reset zoom                          | `⌘ 0`                   |
+| Files panel                         | `⌘ 1`                   |
+| Commit panel                        | `⌘ 2`                   |
+| Git history panel                   | `⌘ 3`                   |
+| Main panel                          | `⌘ 4`                   |
+| Run panel                           | `⌘ 8`                   |
+| Terminal                            | `⌘ 9`                   |
 
 | Git                                 |                         |
 | :---                                | :---                    |
