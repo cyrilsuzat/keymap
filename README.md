@@ -6,7 +6,6 @@
 | Files                               | `⌘ P`                   |
 | Symbols (Structure)                 | `⌘ ⇧ O`                 |
 | Go To Line                          | `⌃ G`                   |
-| View Recent Files                   | `⌘ E`                   |
 | Navigate Declaration or Usages      | `⌘ B` / `⌘ click`       |
 | Select Previous / Next Tab          | `⌘ ⌥ ←` / `⌘ ⌥ →`       |
 | Reopen Closed Tab                   | `⌘ ⇧ T`                 |
