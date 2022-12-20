@@ -32,7 +32,7 @@
 | SEARCH / REPLACE                    |                         |
 | :---                                | :---                    |
 | Find...                             | `⌘ F`                   |
-| Find in Path...                     | `⌘ ⇧ F`                 |
+| Find in Files...                    | `⌘ ⇧ F`                 |
 | Find Usages                         | `⌥ F7`                  |
 
 | RAILS                               |                         |
