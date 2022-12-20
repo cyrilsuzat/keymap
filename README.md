@@ -58,7 +58,7 @@
 
 | Git                                 |                         |
 | :---                                | :---                    |
-| Blame                               | `⌃ G ⌃ A`               |
+| Blame (Annotate)                    | `⌃ G ⌃ A`               |
 | Commit                              | `⌃ G ⌃ C`               |
-| Pull                                | `⌃ G ⌃ U`               |
+| Pull (Update)                       | `⌃ G ⌃ U`               |
 | Push                                | `⌃ G ⌃ P`               |
