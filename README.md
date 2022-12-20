@@ -25,8 +25,7 @@
 | Select All Occurences               | `⌘ ⇧ D`                 |
 | Add Caret                           | `⌥ click`               |
 | Add Caret Above / Below             | `⌘ ⇧ ↑` / `⌘ ⇧ ↓`       |
-| Completion Basic                    | `⌃ space`               |
-| Completion Cyclic Expand Word       | `⌃ ⇧ space`             |
+| Completion                          | `⌃ space`               |
 | Zoom In / Out                       | `⌘ ⇧ 1` / `⌘ -`         |
 | Reset Zoom                          | `⌘ 0`                   |
 
