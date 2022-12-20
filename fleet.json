@@ -1,0 +1,184 @@
+{
+  "keymap": [
+    {
+      "key": "alt-cmd-right",
+      "trigger": "next-tab"
+    },
+    {
+      "key": "cmd-shift-rightbracket",
+      "trigger": "-next-tab"
+    },
+    {
+      "key": "cmd-shift-aumlaut",
+      "trigger": "-next-tab"
+    },
+    {
+      "key": "alt-cmd-left",
+      "trigger": "prev-tab"
+    },
+    {
+      "key": "cmd-shift-leftbracket",
+      "trigger": "-prev-tab"
+    },
+    {
+      "key": "cmd-shift-oumlaut",
+      "trigger": "-prev-tab"
+    },
+    {
+      "key": "cmd-shift-k",
+      "trigger": "-show-goto-action-panel"
+    },
+    {
+      "key": "shift-cmd-p",
+      "trigger": "show-goto-action-panel"
+    },
+    {
+      "key": "cmd-k",
+      "trigger": "-show-goto-panel"
+    },
+    {
+      "key": "cmd-p",
+      "trigger": "show-goto-panel"
+    },
+    {
+      "key": "cmd-shift-o",
+      "trigger": "-show-file-symbols"
+    },
+    {
+      "key": "shift-cmd-o",
+      "trigger": "show-file-symbols"
+    },
+    {
+      "key": "cmd-r",
+      "trigger": "-go-to-run"
+    },
+    {
+      "key": "alt-cmd-return",
+      "trigger": "-new-line-above"
+    },
+    {
+      "key": "shift-cmd-return",
+      "trigger": "new-line-above"
+    },
+    {
+      "key": "cmd-equalssign",
+      "trigger": "-zoom-in"
+    },
+    {
+      "key": "cmd-shift-digit0",
+      "trigger": "-zoom-in"
+    },
+    {
+      "key": "cmd-plus",
+      "trigger": "-zoom-in"
+    },
+    {
+      "key": "shift-cmd-digit1",
+      "trigger": "zoom-in"
+    },
+    {
+      "key": "cmd-digit0",
+      "trigger": "reset-zoom"
+    },
+    {
+      "key": "cmd-l",
+      "trigger": "-clear-terminal"
+    },
+    {
+      "key": "cmd-k",
+      "trigger": "clear-terminal"
+    },
+    {
+      "key": "cmd-shift-return",
+      "trigger": "-complete-statement"
+    },
+    {
+      "key": "cmd-shift-return",
+      "trigger": "-force-new-line"
+    },
+    {
+      "key": "ctrl-graveaccent",
+      "trigger": "-jump-to-terminal"
+    },
+    {
+      "key": "cmd-digit9",
+      "trigger": "jump-to-terminal"
+    },
+    {
+      "key": "cmd-shift-p",
+      "trigger": "-show-goto-symbol-panel"
+    },
+    {
+      "key": "cmd-shift-t",
+      "trigger": "-show-expression-type"
+    },
+    {
+      "key": "ctrl-minus",
+      "trigger": "back"
+    },
+    {
+      "key": "shift-ctrl-minus",
+      "trigger": "forward"
+    },
+    {
+      "key": "alt-shift-d",
+      "trigger": "-duplicate-line"
+    },
+    {
+      "key": "shift-alt-down",
+      "trigger": "duplicate-line"
+    },
+    {
+      "key": "alt-shift-down",
+      "trigger": "-shrink-selection"
+    },
+    {
+      "key": "cmd-digit1",
+      "trigger": "jump-to-files-tree"
+    },
+    {
+      "key": "cmd-digit1",
+      "trigger": "-focus-and-toggle-left-panel"
+    },
+    {
+      "key": "cmd-digit2",
+      "trigger": "git/commit"
+    },
+    {
+      "key": "cmd-digit2",
+      "trigger": "-focus-and-toggle-bottom-panel"
+    },
+    {
+      "key": "cmd-digit3",
+      "trigger": "git/jump-to-history"
+    },
+    {
+      "key": "cmd-digit3",
+      "trigger": "-focus-and-toggle-right-panel"
+    },
+    {
+      "key": "cmd-digit1 cmd-digit1",
+      "trigger": "focus-and-toggle-left-panel"
+    },
+    {
+      "key": "cmd-digit9",
+      "trigger": "-debug/step-into"
+    },
+    {
+      "key": "cmd-digit9 cmd-digit9",
+      "trigger": "focus-and-toggle-bottom-panel"
+    },
+    {
+      "key": "cmd-digit4",
+      "trigger": "focus-main-panel"
+    },
+    {
+      "key": "cmd-alt-w",
+      "trigger": "-close-all-tabs-but-active"
+    },
+    {
+      "key": "shift-cmd-w",
+      "trigger": "close-all-tabs-but-active"
+    }
+  ]
+}
