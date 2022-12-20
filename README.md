@@ -6,11 +6,8 @@
 | Files                               | `⌘ P`                   |
 | Symbols (Structure)                 | `⌘ ⇧ O`                 |
 | Go to line                          | `⌘ L`                   |
-| Navigate Declaration or Usages      | `⌘ B` / `⌘ click`       |
-| Select Previous / Next Tab          | `⌘ ⌥ ←` / `⌘ ⌥ →`       |
-| Reopen Closed Tab                   | `⌘ ⇧ T`                 |
+| Go to definition                    | `⌘ click` / `⌘ B`       |
 | Go back/forward                     | `⌃ -` / `⌃ ⇧ -`         |
-| Quick Definition / Documentation    | `⌥ space` / `⌥ ⇧ space` |
 
 | Basic editing                       |                         |
 | :---                                | :---                    |
@@ -19,9 +16,6 @@
 | Duplicate line or selection         | `⌥ ⇧ ↓`                 |
 | Delete Line                         | `⌘ ⇧ ⌨`                 |
 | Comment with Line Comment           | `⌘ ⇧ 7`                 |
-| Select Next Occurence               | `⌘ D`                   |
-| Select All Occurences               | `⌘ ⇧ D`                 |
-| Completion                          | `⌃ space`               |
 | Zoom In / Out                       | `⌘ ⇧ 1` / `⌘ -`         |
 | Reset Zoom                          | `⌘ 0`                   |
 
@@ -29,12 +23,23 @@
 | :---                                | :---                    |
 | Add caret                           | `⌥ click`               |
 | Add caret above/below               | `⌘ ⇧ ↑` / `⌘ ⇧ ↓`       |
+| Select Next Occurence               | `⌘ D`                   |
+| Select All Occurences               | `⌘ ⇧ D`                 |
 
 | Rich languages editing              |                         |
 | :---                                | :---                    |
+| Completion                          | `⌃ space`               |
 | Reformat code                       | `⌥ ⇧ F`                 |
+| Quick Definition / Documentation    | `⌥ space` / `⌥ ⇧ space` |
 | Insert <%= %> in RHTML              | `⌘ ⇧ .`                 |
 | Insert <% %> in RHTML               | `⌘ ⇧ ,`                 |
+
+| Tabs                                |                         |
+| :---                                | :---                    |
+| Close tab                           | `⌘ W`                   |
+| Close all tabs but active           | `⌘ ⇧ W`                 |
+| Reopen closed tab                   | `⌘ ⇧ T`                 |
+| Previous/Next tab                   | `⌘ ⌥ ←` / `⌘ ⌥ →`       |
 
 | Search and replace                  |                         |
 | :---                                | :---                    |
