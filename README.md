@@ -33,7 +33,6 @@
 | :---                                | :---                    |
 | Find...                             | `⌘ F`                   |
 | Find in Files...                    | `⌘ ⇧ F`                 |
-| Find Usages                         | `⌥ F7`                  |
 
 | RAILS                               |                         |
 | :---                                | :---                    |
