@@ -19,7 +19,7 @@
 | Duplicate Line or Selection         | `⌥ ⇧ ↓`                 |
 | Move Line Up / Down                 | `⌥ ↑` / `⌥ ↓`           |
 | Delete Line                         | `⌘ ⇧ ⌨`                 |
-| Reformat Code                       | `⌘ ⌥ L`                 |
+| Reformat Code                       | `⌥ ⇧ F`                 |
 | Comment with Line Comment           | `⌘ ⇧ 7`                 |
 | Select Next Occurence               | `⌃ G`                   |
 | Select All Occurences               | `⌃ ⌘ G`                 |
