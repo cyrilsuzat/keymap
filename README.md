@@ -41,8 +41,8 @@
 
 | Search and replace                  |                         |
 | :---                                | :---                    |
-| Find...                             | `⌘ F`                   |
-| Find in Files...                    | `⌘ ⇧ F`                 |
+| Find                                | `⌘ F`                   |
+| Find in files                       | `⌘ ⇧ F`                 |
 
 | Display                             |                         |
 | :---                                | :---                    |
