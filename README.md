@@ -62,3 +62,6 @@
 | Commit                              | `⌃ G ⌃ C`               |
 | Pull (Update)                       | `⌃ G ⌃ U`               |
 | Push                                | `⌃ G ⌃ P`               |
+
+## Visual Studio Code
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
