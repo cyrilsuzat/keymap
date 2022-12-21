@@ -1,0 +1,62 @@
+[
+  // ----------
+  // Navigation
+  // ----------
+
+  // Symbols ⌘ ⇧ O
+  { "keys": ["super+shift+o"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+  
+  // Go to line ⌘ L
+  { "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+
+  // Go to definition ⌘ click / ⌘ B
+  // TODO: https://youtu.be/DwTV5ogPdlU
+  { "keys": ["super+b"], "command": "goto_definition" },
+
+  // -------------
+  // Basic editing
+  // -------------
+
+  // Move line down/up ⌥ ↓ / ⌥ ↑
+  { "keys": ["alt+up"], "command": "swap_line_up" },
+  { "keys": ["alt+down"], "command": "swap_line_down" },
+
+  // Duplicate line or selection ⌥ ⇧ ↓
+  { "keys": ["shift+alt+down"], "command": "duplicate_line" },
+  
+  // Delete Line ⌘ ⇧ ⌨
+  { "keys": ["super+shift+backspace"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+
+  // --------------------------
+  // Multi-cursor and selection
+  // --------------------------
+
+  // Add caret above/below ⌘ ⇧ ↑ / ⌘ ⇧ ↓
+  { "keys": ["super+alt+up"], "command": "select_lines", "args": {"forward": false} },
+  { "keys": ["super+alt+down"], "command": "select_lines", "args": {"forward": true} },
+
+  // Select All Occurences ⌘ ⇧ D
+  { "keys": ["super+shift+d"], "command": "find_all_under" },
+
+  // ----------------------
+  // Rich languages editing
+  // ----------------------
+
+  // Insert <%= %> in RHTML  ⌘ ⇧ .
+  { "keys": ["super+shift+."], "command": "erb" },
+  
+  // ----
+  // Tabs
+  // ----
+
+  // Close all tabs but active ⌘ ⇧ W
+  // TODO: https://github.com/fnando/sublime-close-others
+  { "keys": ["super+shift+w"], "command": "close_other_tabs" },
+
+  // -------
+  // Display
+  // -------
+
+  // Files panel ⌘ 1
+  { "keys": ["super+1"], "command": "toggle_side_bar" }
+]
