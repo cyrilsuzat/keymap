@@ -179,6 +179,18 @@
     {
       "key": "shift-cmd-w",
       "trigger": "close-all-tabs-but-active"
+    },
+    {
+      "key": "cmd-shift-l",
+      "trigger": "-select-all-occurrences"
+    },
+    {
+      "key": "shift-cmd-d",
+      "trigger": "select-all-occurrences"
+    },
+    {
+      "key": "cmd-shift-d",
+      "trigger": "-unselect-occurrence"
     }
   ]
 }
