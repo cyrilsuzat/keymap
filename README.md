@@ -1,3 +1,9 @@
+### Fleet
+
+```
+~/.fleet/keymap/user.json
+```
+
 # Keymap
 
 | Navigation                          |                         |
